@@ -46,14 +46,14 @@
 ### 「 Repos 」
 
 <p align="center">
-  <a href="https://github.com/aleynaeser/portfolio"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=portfolio&theme=dark" /></a>
-  <a href="https://github.com/aleynaeser/daily-news"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=daily-news&theme=dark" /></a>
+  <a href="https://github.com/talha/portfolio"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=talha&repo=portfolio&theme=dark" /></a>
+  <a href="https://github.com/talha/daily-news"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=talha&repo=daily-news&theme=dark" /></a>
   <br>
-  <a href="https://github.com/aleynaeser/password-metric-app"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=password-metric-app&theme=dark" /></a>
-  <a href="https://github.com/aleynaeser/budget-management-app"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=budget-management-app&theme=dark" /></a>
+  <a href="https://github.com/talha/password-metric-app"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=talha&repo=password-metric-app&theme=dark" /></a>
+  <a href="https://github.com/talha/budget-management-app"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=talha&repo=budget-management-app&theme=dark" /></a>
   <br>
-  <a href="https://github.com/aleynaeser/flutter-ui-design-examples"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=flutter-ui-design-examples&theme=dark" /></a>
-  <a href="https://github.com/aleynaeser/reddit-clone"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=reddit-clone&theme=dark" /></a>
+  <a href="https://github.com/talha/flutter-ui-design-examples"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=talha&repo=flutter-ui-design-examples&theme=dark" /></a>
+  <a href="https://github.com/talha/reddit-clone"><img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=talha&repo=reddit-clone&theme=dark" /></a>
 </p>
 
 <p align="center">▸ ≡ More</p>
@@ -63,11 +63,11 @@
 ### 「 Connect with me 」
 
 <p align="center">
-  <a href="mailto:ornek@mail.com"><img src="https://img.shields.io/badge/Mail-grey?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/kullaniciadi"><img src="https://img.shields.io/badge/Linkedin-grey?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="mailto:ornek@ornek.com"><img src="https://img.shields.io/badge/Mail-grey?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/ornek"><img src="https://img.shields.io/badge/Linkedin-grey?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://ornek.com"><img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aleynaeser&label=visitors&color=grey&style=flat-square" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=talha&label=visitors&color=grey&style=flat-square" alt="profile-views" />
 </p>

@@ -68,8 +68,3 @@
   <a href="https://ornek.com"><img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.io/status?path=TheXalha&style=flat-square&theme=dark" alt="visitor badge"/>
-</p>
-
-

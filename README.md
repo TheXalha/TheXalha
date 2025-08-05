@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talha&label=visitors&color=grey&style=flat-square" alt="profile-views" />
+   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TheXalha)
 </p>

@@ -69,6 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=visitors&query=value&url=https://api.countapi.xyz/hit/TheXalha/visits&color=grey&style=flat-square" />
+  <img src="https://visitor-badge.io/status?path=TheXalha&style=flat-square&theme=dark" alt="visitor badge"/>
 </p>
+
 

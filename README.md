@@ -69,5 +69,6 @@
 </p>
 
 <p align="center">
-   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TheXalha)
+  <img src="https://img.shields.io/badge/dynamic/json?label=visitors&query=value&url=https://api.countapi.xyz/hit/TheXalha/visits&color=grey&style=flat-square" />
 </p>
+

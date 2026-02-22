@@ -40,14 +40,3 @@
   <img src="https://img.shields.io/badge/-Framer%20Motion-EF4A7B?style=flat" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma" />
 </p>
-
----
-
-### 「 Repos 」
-
-
----
-
-### 「 Connect with me 」
-
-
